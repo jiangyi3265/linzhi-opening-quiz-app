@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+unpackage/
+deploy/
+
+# Runtime, logs and reports
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa*
+id_dsa*
+*.ppk
+
+# IDE and OS files
+.hbuilderx/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

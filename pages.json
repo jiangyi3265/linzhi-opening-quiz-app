@@ -1,0 +1,19 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "网安林芝",
+				"disableScroll": false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "网安林芝",
+		"navigationBarBackgroundColor": "#FBFDFF",
+		"backgroundColor": "#D9EFFC"
+	},
+	"uniIdRouter": {}
+}
